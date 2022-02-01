@@ -3,6 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+ /*edited by Amir
+ */
+
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
@@ -15,5 +19,8 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+
+
+        Card fiveClubs = new Card("Clbs",9);
     }
 }

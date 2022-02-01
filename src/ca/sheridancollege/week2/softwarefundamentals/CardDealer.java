@@ -22,5 +22,7 @@ public class CardDealer
 
 
         Card fiveClubs = new Card("Clbs",9);
+     
+        System.out.println(fiveClubs.getSuit()+ " " + fiveClubs.getValue());
     }
 }
